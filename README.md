@@ -1,7 +1,7 @@
 # DCIT318 Assignment 1 - C# Console Application
 
 ## Overview
-This project is a C# console application developed for DCIT318 (Introduction to Computer Science) Assignment 1. The application provides three utility programs: a grade calculator, a ticket price calculator, and a triangle type identifier.
+This project is a C# console application developed for DCIT318 (programming) Assignment 1. The application provides three utility programs: a grade calculator, a ticket price calculator, and a triangle type identifier.
 
 ## Student Information
 - **Student ID**: 11347275
