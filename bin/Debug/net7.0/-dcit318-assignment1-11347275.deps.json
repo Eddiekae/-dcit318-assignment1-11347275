@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "-dcit318-assignment1-11347275/1.0.0": {
+        "runtime": {
+          "-dcit318-assignment1-11347275.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "-dcit318-assignment1-11347275/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

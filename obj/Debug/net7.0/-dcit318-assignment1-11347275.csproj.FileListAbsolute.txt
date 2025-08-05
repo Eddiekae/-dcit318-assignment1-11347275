@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\dcit318_assignment_11347275\-dcit318-assignment1-11347275\bin\Debug\net7.0\-dcit318-assignment1-11347275.exe
+C:\Users\PC\Desktop\dcit318_assignment_11347275\-dcit318-assignment1-11347275\bin\Debug\net7.0\-dcit318-assignment1-11347275.deps.json
+C:\Users\PC\Desktop\dcit318_assignment_11347275\-dcit318-assignment1-11347275\bin\Debug\net7.0\-dcit318-assignment1-11347275.runtimeconfig.json
+C:\Users\PC\Desktop\dcit318_assignment_11347275\-dcit318-assignment1-11347275\bin\Debug\net7.0\-dcit318-assignment1-11347275.dll
+C:\Users\PC\Desktop\dcit318_assignment_11347275\-dcit318-assignment1-11347275\bin\Debug\net7.0\-dcit318-assignment1-11347275.pdb
+C:\Users\PC\Desktop\dcit318_assignment_11347275\-dcit318-assignment1-11347275\obj\Debug\net7.0\-dcit318-assignment1-11347275.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\dcit318_assignment_11347275\-dcit318-assignment1-11347275\obj\Debug\net7.0\-dcit318-assignment1-11347275.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\dcit318_assignment_11347275\-dcit318-assignment1-11347275\obj\Debug\net7.0\-dcit318-assignment1-11347275.AssemblyInfo.cs
+C:\Users\PC\Desktop\dcit318_assignment_11347275\-dcit318-assignment1-11347275\obj\Debug\net7.0\-dcit318-assignment1-11347275.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\dcit318_assignment_11347275\-dcit318-assignment1-11347275\obj\Debug\net7.0\-dcit318-assignment1-11347275.dll
+C:\Users\PC\Desktop\dcit318_assignment_11347275\-dcit318-assignment1-11347275\obj\Debug\net7.0\refint\-dcit318-assignment1-11347275.dll
+C:\Users\PC\Desktop\dcit318_assignment_11347275\-dcit318-assignment1-11347275\obj\Debug\net7.0\-dcit318-assignment1-11347275.pdb
+C:\Users\PC\Desktop\dcit318_assignment_11347275\-dcit318-assignment1-11347275\obj\Debug\net7.0\-dcit318-assignment1-11347275.genruntimeconfig.cache
+C:\Users\PC\Desktop\dcit318_assignment_11347275\-dcit318-assignment1-11347275\obj\Debug\net7.0\ref\-dcit318-assignment1-11347275.dll
